@@ -1,1 +1,0 @@
-# simulator_of_data_analyst_course
