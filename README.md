@@ -1,1 +1,1 @@
-# simulator_of_data_analyst_course
+Here are my projects from simulator of data analyst course by Karpov.Courses
